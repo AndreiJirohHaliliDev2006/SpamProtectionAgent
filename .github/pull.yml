@@ -1,0 +1,8 @@
+# Define which version to use. Must be a string, NOT a integer.
+# Currently supported: 1
+version: "1"
+
+rules:
+  - base: master                  # Use the default branch as base.
+    upstream: intellivoid:master  # Use the root parent repo and its default branch as base.
+    mergeMethod: merge            # DO NOT HARD RESET, just generate a merge request.
