@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/intellivoid/SpamProtectionAgent)
+
 # Intellivoid SpamProtection Agent Userbot
 
 An userbot that automates the process of reporting spam for [Spam Protection](https://t.me/SpamProtectionLogs), an antispam service by Intellivoid.
@@ -23,6 +25,10 @@ Please be reminded that we're NOT responsible for your TOS violations.
 ### With Heroku
 
 Currently, not yet supported. It will, very soon.
+
+## Development
+
+See `DEVELOP.md` for details.
 
 ## Community Support
 
