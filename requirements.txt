@@ -1,2 +1,7 @@
-pyrogram
-asyncio-dev
+# Use pokurt's fork of Pyrogram.
+# Ref: https://t.me/SpamProtectionSupport/10463
+git+https://github.com/pokurt/pyrogram@asyncio-dev
+
+# Use TgCrypto, so Pyrogram doens't fallback to PyAES and will show you a warning.
+# Docs: https://docs.pyrogram.org/topics/tgcrypto
+TgCrypto
