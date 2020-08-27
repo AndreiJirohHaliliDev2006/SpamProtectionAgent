@@ -19,8 +19,9 @@ Please be reminded that we're NOT responsible for your TOS violations.
 
 1. Clone the repository and navigate to it.
 2. Install dependencies with `pip install -r requirements.txt`.
-3. Copy the sample config file with `cp spam/config.sample.py spam/config.py` and edit it.
-4. After setting up, run `python3 -m spam`.
+3. Generate a new session string with `python3 stringSessionGenerator.py`
+4. Copy the sample config file with `cp spam/config.sample.py spam/config.py` and edit it.
+5. After setting up, run `python3 -m spam`.
 
 ### With Heroku
 

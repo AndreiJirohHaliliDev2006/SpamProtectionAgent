@@ -15,4 +15,7 @@ Command = "!"
 # Get one from https://my.telegram.org/apps
 user1_api_id = ""
 user1_api_hash = ""
+
+# For string session, run "python3 stringSessionGenerator.py".
+# Then paste the result here.
 user1_session_string = ""
